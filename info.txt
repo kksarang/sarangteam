@@ -1,0 +1,13 @@
+
+Member 2
+Name : Sandra R. Green
+Position: Product Designer
+
+Member 3
+Name : George Nick Scott
+Position: Full Stack Developer
+
+Member 4
+Name : Margarita Bellucci
+Position: Security Specialist
+
